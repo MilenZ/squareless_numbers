@@ -4,3 +4,7 @@
 
 /.vs
 /squarele.0cccf8d6/x64/Debug
+*.slnx
+*.vcxproj
+*.filters
+*.user
